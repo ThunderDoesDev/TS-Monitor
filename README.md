@@ -13,11 +13,6 @@ It is my great pleasure to share this bit of code with the community to learn fr
 <b>Pika</b>
 Activity: Original creator of the source.
 <p>
-<b>Lê Dieu Revolx#0001</b>
-Activity: Steering me in the right direction to make this bot work.
-<p>
-  <b>ᴊʏɢᴜʏ#9535</b>
-Activity: Helped me finally get it working so it doesnt spam like it was doing initially.
 
 # Usage
 Install the required node modules
@@ -30,5 +25,5 @@ make sure to invite the monitor bot your discord server first and that the bot i
 Leave this script running 24/7 to ensure 24/7 Monitoring.
 
 # Support Server
-If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
+If you require some assistance please join our Discord Server, you will also see this code in action in our server too.\n
 [Join Here](https://discord.gg/zb5Jg89TVG)
