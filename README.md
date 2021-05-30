@@ -3,7 +3,7 @@
 # Discord Bot Monitor
 This is 2.0 version of the Rxiqi Bot Monitor.
 
-I am the developer of the Thunderstruck Discord Bot
+I am the developer of the Thunderstruck Discord Bot.
 
 I decided to make this monitor code to monitor the presence status of Thunderstruck to alert my users/supporters of Thunderstruck of when the bot is Online or Offline or down for maintenance.
 
