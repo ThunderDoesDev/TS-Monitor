@@ -1,7 +1,7 @@
  [![Discord](https://discordapp.com/api/guilds/506005416510095371/embed.png)](https://discord.gg/zb5Jg89TVG)
 
 # Discord Bot Monitor
-This is one of my many upcoming projects.
+This is 2.0 version of the Rxiqi Bot Monitor.
 
 I am the developer of the Thunderstruck Discord Bot
 
@@ -25,5 +25,6 @@ make sure to invite the monitor bot your discord server first and that the bot i
 Leave this script running 24/7 to ensure 24/7 Monitoring.
 
 # Support Server
-If you require some assistance please join our Discord Server, you will also see this code in action in our server too.\n
+If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
+ 
 [Join Here](https://discord.gg/zb5Jg89TVG)
