@@ -10,8 +10,8 @@ I decided to make this monitor code to monitor the presence status of Thunderstr
 It is my great pleasure to share this bit of code with the community to learn from it and make it better.
 
 # Contributors
-<b>Pika</b>
-Activity: Original creator of the source.
+<b>Pika:</b>
+Original creator of the source.
 <p>
 
 # Usage
