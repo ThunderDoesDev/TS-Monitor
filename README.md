@@ -1,4 +1,4 @@
- [![Discord](https://discordapp.com/api/guilds/506005416510095371/embed.png)](https://discord.gg/zb5Jg89TVG)
+ [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/zb5Jg89TVG)\
 
 # Discord Bot Monitor
 This is 2.0 version of the Rxiqi Bot Monitor.
