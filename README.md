@@ -1,18 +1,12 @@
  [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/zb5Jg89TVG)
 
 # Discord Bot Monitor
-This is 2.0 version of the [Rxiqi Bot Monitor](https://github.com/Rxiqi-Development/RxiqiMonitor)
 
 I am the developer of the Thunderstruck Discord Bot.
 
 I decided to make this monitor code to monitor the presence status of Thunderstruck to alert my users/supporters of Thunderstruck of when the bot is Online or Offline or down for maintenance.
 
 It is my great pleasure to share this bit of code with the community to learn from it and make it better.
-
-# Contributors
-<b>Pika:</b>
-Original creator of the source.
-<p>
 
 # Usage
 Install the required node modules
@@ -27,4 +21,4 @@ Leave this script running 24/7 to ensure 24/7 Monitoring.
 # Support Server
 If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
  
-[Join Here](https://discord.gg/zb5Jg89TVG)
+[Join Here](https://discord.gg/sEgv6gvHMs)
