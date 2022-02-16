@@ -10,7 +10,7 @@ It is my great pleasure to share this bit of code with the community to learn fr
 
 # Usage
 Install the required node modules
-`npm i discord.js`
+`npm i`
 then fill in the 'config.js' with the relative information for the monitor to monitor your bot.
 
 Once you have done the above open up Command Prompt or Powershell and type `node monitor` and it will load the script,
