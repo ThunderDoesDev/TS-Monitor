@@ -2,9 +2,9 @@
 
 # Discord Bot Monitor
 
-I am the developer of the Thunderstruck Discord Bot.
+I am the developer & coder.
 
-I decided to make this monitor code to monitor the presence status of Thunderstruck to alert my users/supporters of Thunderstruck of when the bot is Online or Offline or down for maintenance.
+I decided to make this monitor code to monitor the presence status of my discord bots to alert my users/supporters of when my bot is Online or Offline or down for maintenance.
 
 It is my great pleasure to share this bit of code with the community to learn from it and make it better.
 
