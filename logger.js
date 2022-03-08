@@ -1,6 +1,6 @@
 var chalk = require("chalk");
 
-const time = () => (`${chalk.grey(new Date().toLocaleString('en', {
+const time = () => (`${chalk.grey(new Date().toLocaleString('en-AU', {
     hour: 'numeric',
     minute: 'numeric',
     second: 'numeric',
