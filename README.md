@@ -24,4 +24,4 @@ Leave this script running 24/7 to ensure 24/7 Monitoring.
 # Support Server
 If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
  
-[Join Here](https://discord.gg/sEgv6gvHMs)
+[Join Here](https://discord.gg/pN9NDAHg77)
