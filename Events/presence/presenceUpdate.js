@@ -10,6 +10,7 @@ module.exports.run = (oldPresence, newPresence) => {
     if (oldPresence.status === newPresence.status) return;
     if (newPresence.userId !== oldPresence.settings.bot.botID) return;
     const bot = oldPresence.users.cache.get(oldPresence.settings.bot.botID);
+    const guild = oldPresence.guilds.cache.get(oldPresence.settings.bot.guildID);
     const channel = newPresence.guild.channels.cache.find(chan => chan.id === oldPresence.settings.bot.statusChannel) || null;
     if (channel !== null) {
         if (newPresence.status === 'offline') {
