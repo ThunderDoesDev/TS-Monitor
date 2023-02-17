@@ -1,4 +1,4 @@
- [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/sEgv6gvHMs)
+ [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/3NTPcPGYtM)
 
 # TS Monitor
 
