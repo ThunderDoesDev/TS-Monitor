@@ -20,8 +20,9 @@ Leave this script running 24/7 to ensure 24/7 Monitoring.
 
 # Changelogs
 - New Template
-- New Framework
 - Updated to V14
+
+https://cdn.thunderdoesdev.gg/images/2dfbx.png
 
 # Support Server
 If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
