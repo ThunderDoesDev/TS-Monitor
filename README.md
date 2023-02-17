@@ -22,7 +22,7 @@ Leave this script running 24/7 to ensure 24/7 Monitoring.
 - New Template
 - Updated to V14
 
-[Image](https://cdn.thunderdoesdev.gg/images/2dfbx.png)
+[Image](https://cdn.thunderdoesdev.gg/images/private/montiorsource.png)
 
 # Support Server
 If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
