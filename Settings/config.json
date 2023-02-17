@@ -1,0 +1,8 @@
+{
+    "bot": {
+        "token" : "",
+        "botID" : "",
+        "statusChannel" : "",
+        "mainGuild": "" 
+    }   
+} 
