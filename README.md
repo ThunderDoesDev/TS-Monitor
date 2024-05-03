@@ -12,7 +12,7 @@ This repository contains the source code for a Discord bot monitor. This tool he
 
 ### Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/ThunderDoesDev/TS-Monitor.git`.
+1. Clone this repository to your local machine using ```git clone https://github.com/ThunderDoesDev/TS-Monitor.git```.
 2. Navigate to the cloned directory.
 3. Install the required Node.js modules with:
    ```bash
