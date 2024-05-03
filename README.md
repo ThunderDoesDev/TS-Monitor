@@ -1,33 +1,56 @@
- [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.gg/3NTPcPGYtM)
-
 # TS Monitor
 
-I am the developer & coder.
+This repository contains the source code for a Discord bot monitor. This tool helps you track the presence status of your Discord bots, alerting users when a bot is online, offline, or undergoing maintenance.
 
-I decided to make this monitor code to monitor the presence status of my discord bots to alert my users/supporters of when my bot is Online or Offline or down for maintenance.
+## Features
 
-It is my great pleasure to share this bit of code with the community to learn from it and make it better.
+- Real-time monitoring of Discord bot status.
+- Notifications for bot availability changes.
+- Compatible with Discord API v14.
 
-# Usage
-Install the required node modules
-`npm i`
-then fill in the 'config.js' with the relative information for the monitor to monitor your bot.
+## Usage
 
-Once you have done the above open up Command Prompt or Powershell and type `node monitor` and it will load the script,
-make sure to invite the monitor bot your discord server first and that the bot its monitoring is in the same guild.
+### Installation
 
-Leave this script running 24/7 to ensure 24/7 Monitoring.
+1. Clone this repository to your local machine using `git clone <repository-url>`.
+2. Navigate to the cloned directory.
+3. Install the required Node.js modules with:
+   ```bash
+   npm install
+   ```
 
-# Changelogs
-- New Template
-- Updated to V14
+### Configuration
 
-![Image](https://cdn.thunderdoesdev.gg/images/private/monitorsource.png)
+1. Create a `config.js` file in the root directory of the project.
+2. Fill the `config.js` file with the necessary details about your Discord bot, including its token and any other relevant configuration settings.
 
-# License
-This source code uses a no license all rights are reserved and this repo is public strictly for educational purposes!
+### Running the Monitor
 
-# Support Server
-If you require some assistance please join our Discord Server, you will also see this code in action in our server too.
- 
-[Join Here](https://discord.gg/3NTPcPGYtM)
+1. Invite the monitor bot to your Discord server. Ensure the bot it's monitoring is present in the same server.
+2. Open your command prompt or PowerShell.
+3. Execute the monitor script by typing:
+   ```bash
+   node monitor
+   ```
+
+### Recommendations
+
+- Keep the monitor script running 24/7 for continuous monitoring.
+- Update your configuration settings as necessary to adapt to changes in your setup or the Discord API.
+
+## Changelogs
+
+- Introduced a new template.
+- Upgraded to Discord API v14 for enhanced performance and compatibility.
+
+## Support
+
+If you need assistance or wish to see the code in action, join our Discord support server:
+
+[Join Support Server](https://discord.gg/3NTPcPGYtM)
+
+## License
+
+This source code is available for educational purposes only under a strict non-commercial, non-distribution license. All rights are reserved.
+
+Feel free to learn from and experiment with the code, but please respect the terms of use.
