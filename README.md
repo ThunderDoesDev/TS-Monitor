@@ -23,10 +23,10 @@ This repository contains the source code for a Discord bot monitor. This tool he
 
 1. Locate the `config.json` file in the `Settings` folder of the project directory.
 2. Edit the `config.json` file to include the following details:
-   - `token`: Your bot's Discord token.
+   - `token`: Your montior bot's Discord token.
    - `mainBotId`: The ID of the bot you are monitoring.
    - `statusChannel`: The ID of the channel where status updates will be posted.
-   - `guildId`: The ID of the main guild (server) where both the monitor bot and the main bot reside.
+   - `mainGuild`: The ID of the main guild (server) where both the monitor bot and the main bot reside.
 
 These details are crucial for the monitor to function correctly, so ensure they are accurate.
 ### Running the Monitor
