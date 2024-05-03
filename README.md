@@ -52,7 +52,7 @@ These details are crucial for the monitor to function correctly, so ensure they 
 
 If you need assistance or wish to see the code in action, join our Discord support server:
 
-[Join Support Server](https://discord.gg/3NTPcPGYtM)
+[Join Support Server](https://discord.gg/thunderstruck)
 
 ## License
 
