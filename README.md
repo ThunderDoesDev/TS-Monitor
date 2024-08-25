@@ -53,9 +53,9 @@ These details are crucial for the monitor to function correctly, so ensure they 
 
 ## Support
 
-If you need assistance or wish to see the code in action, join our Discord support server:
+For support, issues, or enhancements, please open an issue in this repository or join our discord support server.
 
-[Join Support Server](https://discord.gg/thunderstruck)
+[Join Support Server](https://discord.gg/thunderdoesdev)
 
 ## License
 
