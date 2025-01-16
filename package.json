@@ -1,17 +1,17 @@
 {
   "name": "tsmonitor",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "monitoring bot",
   "main": "monitor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thunder",
+  "author": "ThunderDoesDev",
   "license": "MIT",
   "dependencies": {
     "cfonts": "^3.1.1",
     "chalk": "^4.1.1",
-    "discord.js": "^14.7.1",
+    "discord.js": "^14.17.3",
     "fs": "^0.0.1-security",
     "util": "^0.12.5"
   }
