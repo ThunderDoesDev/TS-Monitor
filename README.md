@@ -34,10 +34,12 @@ This repository contains the source code for a Discord bot monitor. This tool he
    - Update the configuration with your bot token and server-specific settings:
      ```json
      {
-       "token": "YOUR_MONITOR_BOT_TOKEN",
-       "botID": "YOUR_MAINBOT_ID",
-       "statusChannel": "YOUR_STATUS_CHANNEL_ID",
-       "mainGuild": "YOUR_MAIN_GUILD_ID"
+        "bpt": {
+           "token": "YOUR_MONITOR_BOT_TOKEN",
+            "botID": "YOUR_MAINBOT_ID",
+            "statusChannel": "YOUR_STATUS_CHANNEL_ID",
+            "mainGuild": "YOUR_MAIN_GUILD_ID"
+         }
      }
      ```
    - Replace the placeholders with your specific details:
