@@ -1,8 +1,7 @@
 {
-    "bot": {
-        "token" : "",
-        "botID" : "",
-        "statusChannel" : "",
-        "mainGuild": "" 
-    }   
+    "token": "YOUR_MONITOR_BOT_TOKEN",
+    "botID": "YOUR_MAINBOT_ID",
+    "statusChannel": "YOUR_STATUS_CHANNEL_ID",
+    "mainGuild": "YOUR_MAIN_GUILD_ID"
+ }   
 } 
