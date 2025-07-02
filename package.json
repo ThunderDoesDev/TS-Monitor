@@ -4,7 +4,7 @@
   "description": "monitoring bot",
   "main": "monitor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "ThunderDoesDev",
   "license": "MIT",
@@ -14,5 +14,8 @@
     "discord.js": "^14.17.3",
     "fs": "^0.0.1-security",
     "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "jest": "^30.0.3"
   }
 }

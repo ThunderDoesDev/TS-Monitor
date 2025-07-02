@@ -5,13 +5,13 @@ const {
 } = require('discord.js');
 const { log, error } = require("../../Functions/logger")
 
-module.exports.run = (oldPresence, newPresence) => {
+module.exports.run = (client, oldPresence, newPresence) => {
     if (!oldPresence || !newPresence) return;
     if (oldPresence.status === newPresence.status) return;
-    if (newPresence.userId !== oldPresence.settings.bot.botID) return;
-    const bot = oldPresence.users.cache.get(oldPresence.settings.bot.botID) || null;
-    const guild = oldPresence.guilds.cache.get(oldPresence.settings.bot.mainGuild) || null;
-    const channel = guild.channels.cache.find(chan => chan.id === oldPresence.settings.bot.statusChannel) || null;
+    if (newPresence.userId !== client.settings.bot.botID) return;
+    const bot = client.users.cache.get(client.settings.bot.botID) || null;
+    const guild = client.guilds.cache.get(client.settings.bot.mainGuild) || null;
+    const channel = guild && guild.channels.cache.find(chan => chan.id === client.settings.bot.statusChannel) || null;
     if (channel !== null) {
         if (newPresence.status === 'offline') {
             const embed = new EmbedBuilder()
@@ -55,3 +55,4 @@ module.exports.run = (oldPresence, newPresence) => {
         }
     }
 }
+
