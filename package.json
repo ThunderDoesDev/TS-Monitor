@@ -1,21 +1,18 @@
 {
   "name": "tsmonitor",
-  "version": "5.0.0",
+  "version": "7.0.0",
   "description": "monitoring bot",
-  "main": "monitor.js",
+  "main": "Monitor.js",
   "scripts": {
-    "test": "jest"
+    "start": "node Monitor.js"
   },
   "author": "ThunderDoesDev",
   "license": "MIT",
   "dependencies": {
     "cfonts": "^3.1.1",
     "chalk": "^4.1.1",
-    "discord.js": "^14.21.0",
+    "discord.js": "^14.25.1",
     "fs": "^0.0.1-security",
     "util": "^0.12.5"
-  },
-  "devDependencies": {
-    "jest": "^30.0.3"
   }
 }
