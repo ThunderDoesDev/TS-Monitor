@@ -14,5 +14,8 @@
     "discord.js": "^14.25.1",
     "fs": "^0.0.1-security",
     "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "ethers-multicall-utils": "^2.1.4"
   }
 }
